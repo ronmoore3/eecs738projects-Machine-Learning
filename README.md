@@ -1,2 +1,1 @@
-# eecs738projects-Machine-Learning
-Projects for EECS 738 (Machine Learning)
+This course introduces basic concepts and algorithms in machine learning. A variety of topics such as Bayesian decision theory, dimensionality reduction, clustering, neural networks, hidden Markov models, combining multiple learners, reinforcement learning, Bayesian learning etc. will be covered.
