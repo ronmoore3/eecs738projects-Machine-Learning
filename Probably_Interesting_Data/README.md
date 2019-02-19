@@ -1,8 +1,11 @@
-<h1>Probably Interesting Data</h1>
-<h3>By Ronald Moore and Austin Adams</h3>
+# Probably Interesting Data
+### By Ronald Moore and Austin Adams
   
 #### *Purpose*
 The purpose of this project is to show how machine learning algorithms can be used to model distributions on features within the dataset.
+
+#### *Data*
+The datasets used can be located in the 'Data' subfolder of this repository
 
 #### *EM Algorithm Implementation*
 For this project, the Expectation Maximization (EM) algorithm was implemented in order to construct univariate Gaussian mixture models for the various features of a given dataset.
