@@ -1,6 +1,6 @@
 <p align="center">
-  <h1> Probably Interesting Data </h1>
-### *By Ronald Moore and Austin Adams*
+  <h1>Probably Interesting Data</h1>
+  <h3>By Ronald Moore and Austin Adams</h3>
 </p>
 
 #### *Purpose*
