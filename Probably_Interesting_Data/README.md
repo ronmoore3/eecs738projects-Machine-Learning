@@ -21,5 +21,5 @@ Given N random samples and k Gaussian components,
 * The EM algorithm seems to work better with continuous values rather than discrete values
 
 #### References:
-http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf
+http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf \
 https://www.geeksforgeeks.org/gaussian-mixture-model/
