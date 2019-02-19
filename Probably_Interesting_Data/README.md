@@ -1,5 +1,5 @@
 <p align="center">
-# Probably Interesting Data
+<h1> Probably Interesting Data </h1>
 ### *By Ronald Moore and Austin Adams*
 </p>
 
