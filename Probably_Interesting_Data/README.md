@@ -20,8 +20,9 @@ Some interesting features include:
 * cell volume
 
 ### *EM Algorithm Implementation*
-For this project, the Expectation Maximization (EM) algorithm was implemented in order to construct univariate Gaussian mixture models for the various features of a given dataset. \
-The EM algorithm has is composed of two parts, the expectation step (E-step) and the maximization step (M-step)
+For this project, the Expectation Maximization (EM) algorithm was implemented in order to construct univariate Gaussian mixture models for the various features of a given dataset.
+
+The EM algorithm is composed of two parts, the expectation step (E-step) and the maximization step (M-step)
 Given N random samples and k Gaussian components,
 
 #### E-Step
