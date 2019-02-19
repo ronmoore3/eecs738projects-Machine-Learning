@@ -1,8 +1,6 @@
-<center>
-  <h1>Probably Interesting Data</h1>
-  <h3>By Ronald Moore and Austin Adams</h3>
-</center>
-
+<h1 style="text-align: center;">Probably Interesting Data</h1>
+<h3 style="text-align: center;">By Ronald Moore and Austin Adams</h3>
+  
 #### *Purpose*
 The purpose of this project is to show how machine learning algorithms can be used to model distributions on features within the dataset.
 
