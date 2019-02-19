@@ -1,6 +1,7 @@
+<p align="center">
 # Probably Interesting Data
-
 ### *By Ronald Moore and Austin Adams*
+</p>
 
 #### *Purpose*
 The purpose of this project is to show how machine learning algorithms can be used to model distributions on features within the dataset.
