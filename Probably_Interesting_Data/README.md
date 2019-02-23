@@ -7,17 +7,19 @@ The purpose of this project is to show how machine learning algorithms can be us
 ### *Data*
 The datasets used for this project can be located in the 'Data' subfolder of this repository
 #### Horse Dataset
-The horse dataset looks at features that could help determine if a horse was going to die soon \
+The horse dataset looks at features that could help determine whether a horse will die soon \
 Some interesting features include:
+* rectal temperature
 * respiratory rate
 * pulse
-* cell volume
-#### Mushroom Dataset
-The mushroom dataset looks at features that could help determine whether a type of mushroom is poisonous \
+* packed cell volume
+#### Glass Dataset
+The mushroom dataset looks at features that could help determine whether a the type of glass \
 Some interesting features include:
-* respiratory rate
-* pulse
-* cell volume
+* refractive index
+* Sodium
+* Magnesium
+* Potassium
 
 ### *EM Algorithm Implementation*
 For this project, the Expectation Maximization (EM) algorithm was implemented in order to construct univariate Gaussian mixture models for the various features of a given dataset.
