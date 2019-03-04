@@ -41,3 +41,5 @@ Given N random samples and k Gaussian components,
 http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf
 
 https://www.geeksforgeeks.org/gaussian-mixture-model/
+
+http://www.aishack.in/tutorials/expectation-maximization-gaussian-mixture-model-mixtures/
