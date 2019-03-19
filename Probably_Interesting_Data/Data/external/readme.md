@@ -1,7 +1,7 @@
 Links to the two datasets can be found here:
 
-#### Horse
+### Horse
 https://www.kaggle.com/uciml/horse-colic
 
-#### Glass
+### Glass
 https://www.kaggle.com/uciml/glass
