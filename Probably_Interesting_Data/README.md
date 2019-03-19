@@ -9,17 +9,17 @@ The datasets used for this project can be located in the 'Data' subfolder of thi
 #### Horse Dataset
 The horse dataset looks at features that could help determine whether a horse will die soon \
 Some interesting features include:
-* rectal temperature
-* respiratory rate
-* pulse
-* packed cell volume
-#### Glass Dataset
-The mushroom dataset looks at features that could help determine whether a the type of glass \
+* Rectal temperature
+* Respiratory rate
+* Pulse
+* Packed cell volume
+#### Auto MPG Dataset
+The auto mpg dataset looks at the miles per gallon (mpg) performances of various car models \
 Some interesting features include:
-* refractive index
-* Sodium
-* Magnesium
-* Potassium
+* Mpg
+* Horsepower
+* Weight
+* Model Year
 
 ### *EM Algorithm Implementation*
 For this project, the Expectation Maximization (EM) algorithm was implemented in order to construct univariate Gaussian mixture models for the various features of a given dataset.
