@@ -1,4 +1,4 @@
-This course introduces basic concepts and algorithms in machine learning. / 
+This course introduces basic concepts and algorithms in machine learning. \ 
 Topics include:
 * Bayesian decision theory
 * Dimensionality reduction
