@@ -1,4 +1,4 @@
-# Probably Interesting Data
+# Says One Neuron To Another
 ## By Ronald Moore and Austin Adams
   
 ### *Purpose*
