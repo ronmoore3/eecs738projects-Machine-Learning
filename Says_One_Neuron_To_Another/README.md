@@ -7,7 +7,8 @@ The purpose of this project is to show how machine learning algorithms can be us
 ### *Data*
 The datasets used for this project can be located in the 'Data' subfolder of this repository
 #### Zoo Dataset
-The zoo classification dataset looks at the features of different animals and their given animal classes (mammal, bird, reptile, fish, amphibian, bug and invertebrate) \
+The zoo classification dataset looks at the features of different animals and their given animal classes (mammal, bird, reptile, fish, amphibian, bug and invertebrate)
+
 Some interesting features include:
 * hair
 * feathers
@@ -17,7 +18,8 @@ Some interesting features include:
 * legs
 * tail
 #### Mushrmoom Dataset
-The mushroom classification dataset looks at different features of both poisonous (p) and edible (e) mushrooms \
+The mushroom classification dataset looks at different features of both poisonous (p) and edible (e) mushrooms
+
 Some interesting features include:
 * cap shape
 * cap surface
