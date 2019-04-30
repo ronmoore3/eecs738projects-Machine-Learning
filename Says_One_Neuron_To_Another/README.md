@@ -6,18 +6,26 @@ The purpose of this project is to show how machine learning algorithms can be us
 
 ### *Data*
 The datasets used for this project can be located in the 'Data' subfolder of this repository
-#### Dataset 1
-Dataset 1 looks at blah blah blah \
+#### Zoo Dataset
+The zoo classification dataset looks at the features of different animals and their given animal classes (mammal, bird, reptile, fish, amphibian, bug and invertebrate) \
 Some interesting features include:
-* feature 1
-* feature 2
-* etc
-#### Dataset 2
-Dataset 2 looks at blah blah blah \
+* hair
+* feathers
+* eggs
+* milk
+* fins
+* legs
+* tail
+#### Mushrmoom Dataset
+The mushroom classification dataset looks at different features of both poisonous (p) and edible (e) mushrooms \
 Some interesting features include:
-* feature 1
-* feature 2
-* etc
+* cap shape
+* cap surface
+* bruises
+* odor
+* ring number
+* ring type
+* gill color
 
 ### *Neural Network Implementation*
 *Detail about Neural nets (MLPs)*
