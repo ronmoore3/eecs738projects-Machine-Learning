@@ -40,3 +40,5 @@ Some interesting features include:
 https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/
 
 https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
+
+https://medium.com/@aerinykim/how-to-implement-the-softmax-derivative-independently-from-any-loss-function-ae6d44363a9d
