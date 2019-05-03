@@ -44,3 +44,5 @@ https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch
 https://medium.com/@aerinykim/how-to-implement-the-softmax-derivative-independently-from-any-loss-function-ae6d44363a9d
 
 https://www.ics.uci.edu/~pjsadows/notes.pdf
+
+https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html
