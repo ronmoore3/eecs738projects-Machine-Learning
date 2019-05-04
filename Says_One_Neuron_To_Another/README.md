@@ -17,7 +17,7 @@ Some interesting features include:
 * fins
 * legs
 * tail
-#### Mushrmoom Dataset
+#### Mushroom Dataset
 The mushroom classification dataset looks at different features of both poisonous (p) and edible (e) mushrooms
 
 Some interesting features include:
@@ -30,7 +30,16 @@ Some interesting features include:
 * gill color
 
 ### *Neural Network Implementation*
-*Detail about Neural nets (MLPs)*
+
+Both of the neural networks are multilayer perceptrons (MLPs). Each network consists of an input layer, a hidden layer, and an output layer.
+
+**Input Layers**
+The width of the input layer was chosen to match the number of features for each dataset. For the zoo dataset, the input layer was given a width of 16, since it has 16 features. The mushroom dataset has 22 features, so the input layer width is of size 22.
+**Hidden Layers**
+For both datsets, the hidden layer width was arbitrarily set to size 20.
+**Output Layers**
+Both datasets are looking to solve classification problems. Therefore, the width of the output layer was set to match the number of possible classes for a given observation. For the zoo dataset, the output layer width was set to size 7, since its network is attempting to correctly classify an animal to its given class (mammal, bird, reptile, fish, amphibian, bug, invertebrate). As for the mushroom dataset, the output layer width was set to size 1, since the network is trying to predict whether a given mushroom is edible (e) or poisonous (p).
+**Activation functions**
 
 ### *Discussion*
 * Activation Functions used for hidden layers and output layers
