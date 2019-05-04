@@ -42,7 +42,7 @@ Both datasets are looking to solve classification problems. Therefore, the width
 #### Activation functions
 For both networks, the rectified linear unit (ReLU) was chosen as the activation functions for the hidden layer. ReLUs are known to avoid the vanish gradient problem that occurs with logistic sigmoid activation functions.
 
-The activation functions for the output layers
+The activation functions for the output layers differ since the neural networks are trying to solve different types of classification problems. For the zoo dataset, the softmax activation function was chosen for the output layer. This is because softmax functions output probablistic distributions for a given set of classes, which is useful for multiclass classification problems. For the mushroom dataset, the logistic sigmoid activation function was chosen for the output layer. This is because sigmoid functions output an integer between 0 and 1, which is useful for binary classification problems.
 ### *Discussion*
 
 
