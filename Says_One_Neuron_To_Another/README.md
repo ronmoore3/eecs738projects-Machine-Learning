@@ -51,6 +51,6 @@ https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/
 
 https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
 
-https://www.ics.uci.edu/~pjsadows/notes.pdf
+https://beckernick.github.io/neural-network-scratch/
 
 https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html
