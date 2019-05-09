@@ -30,7 +30,6 @@ Some interesting features include:
 * gill color
 
 ### *Neural Network Implementation*
-
 Both of the neural networks are multilayer perceptrons (MLPs). Each network consists of an input layer, a hidden layer, and an output layer.
 
 #### Input Layers
@@ -43,8 +42,12 @@ Both datasets are looking to solve classification problems. Therefore, the width
 For both networks, the rectified linear unit (ReLU) was chosen as the activation functions for the hidden layer. ReLUs perform fast calculations and are known to avoid the vanish gradient problem that occurs with logistic sigmoid activation functions.
 
 The activation functions for the output layers differ since the neural networks are trying to solve different types of classification problems. For the zoo dataset, the softmax activation function was chosen for the output layer. This is because softmax functions output probablistic distributions for a given set of classes, which is useful for multiclass classification problems. For the mushroom dataset, the logistic sigmoid activation function was chosen for the output layer. This is because sigmoid functions output an integer between 0 and 1, which is useful for binary classification problems.
+#### Training and Testing
+Roughly 80% of the data was used to train the model, while the other 20% was used for testing. Both models were then trained for a length of 10000 epochs.
 ### *Discussion*
-The network for the mushroom dataset had an accuracy of 69%. However, it also had a precision score of 69%, a true positive rate of 100%, and a true negavitve rate of 0%. This means that the network only predicted that a mushroom would be poisonous. Since 69% of the test data samples were poisonous mushrooms, the network achieved an accuracy of 69%. However, if the distribution of the test data was different, then the accuracy of the neural network would have significantly changed. Perhaps a more robust network could be made by adding another hidden layer or changing the width of the hidden layer.
+The neural network model for the zoo dataset had an accuracy of 80%. This model  finished training much faster than the model used for the mushroom dataset because the computations for the derivative of the ReLU activation function are much quicker than those for the derivative of the sigmoid activation function.
+
+The neural network model for the mushroom dataset had an accuracy of about 69%. However, it also had a precision score of 69%, a true positive rate of 100%, and a true negavitve rate of 0%. This means that the network only predicted that a mushroom would be poisonous. Since 69% of the test data samples were poisonous mushrooms, the network achieved an accuracy of 69%. However, if the distribution of the test data was different, then the accuracy of the neural network would have significantly changed. Perhaps a more robust network could be made by adding another hidden layer or changing the width of the hidden layer.
 
 ### *References*
 https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/
