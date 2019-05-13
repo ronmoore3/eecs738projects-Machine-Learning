@@ -6,8 +6,8 @@ The purpose of this project is to show how reinforcement learning algorithms can
 
 
 ### *Reinforcement Leanring Implementation*
+The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algortithm to use due to its simplistic nature. 
 
-#### Activation functions
 ### *Discussion*
 
 
