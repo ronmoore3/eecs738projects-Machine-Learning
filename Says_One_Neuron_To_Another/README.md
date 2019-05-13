@@ -2,7 +2,7 @@
 ## By Ronald Moore and Austin Adams
   
 ### *Purpose*
-The purpose of this project is to show how machine learning algorithms can be used to model distributions on features within the dataset.
+The purpose of this project is to understand the underlying mathematics of neural networks.
 
 ### *Data*
 The datasets used for this project can be located in the 'Data' subfolder of this repository
