@@ -13,3 +13,5 @@ The reinforcement learning algorithm used was the q-learning algorithm. Q-learni
 
 ### *References*
 https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c
+
+https://en.wikipedia.org/wiki/Q-learning
