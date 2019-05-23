@@ -10,8 +10,14 @@ The reinforcement learning algorithm used was the q-learning algorithm. Q-learni
 
 ![q-learning equation](https://github.com/ronmoore3/eecs738projects-Machine-Learning/tree/master/Treasure_Hunters_Inc/images/bellman_equation.PNG "Q-Learning Equation")
 
-### *Discussion*
+#### Learning Rate (alpha)
+The learning rate *alpha* controls how much of the new information that an agent obtains overrides its past knowledge. If alpha is set to 0, then the agent will discard any new information that it receives when it comes to decision making. However, if alpha is set to 1, then the agent will only consider the new information about the environment when determning which actions to take.
 
+#### Discount Factor (gamma)
+The discount factor *gamma* determines the importance of future rewards. If gamma is set to 0, then future rewards will be of no significance to the agent and it will take actions that are extremely short-sighted. However, if gamma is equal to 1, then the agent will aim to take actions that reflect long-term high reward values.
+
+### *Discussion*
+From the notebooks, it can be seen that the agent learns to solve the maze faster after each learning session. Additionally, different values of the alpha and gamma seem to dictate how well a given agent is able to learn the environment.
 
 ### *References*
 https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c
