@@ -8,11 +8,7 @@ The purpose of this project is to show how reinforcement learning algorithms can
 ### *Reinforcement Learning Implementation*
 The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algorithm used due to its simplistic nature. The algorithm is given by the equation
 
-\begin{equation*}
-\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
-1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
-{1+\frac{e^{-8\pi}} {1+\ldots} } } }
-\end{equation*}
+![alt text](https://github.com/ronmoore3/eecs738projects-Machine-Learning/master/Treasure_Hunters_Inc/images/icon48.png "Logo Title Text 1")
 
 ### *Discussion*
 
