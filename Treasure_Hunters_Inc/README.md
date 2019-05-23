@@ -10,6 +10,15 @@ The reinforcement learning algorithm used was the q-learning algorithm. Q-learni
 
 Q_new[s(t), a(t)] = (1-alpha) * Q_old[s(t), a(t)] + alpha * (r + gamma * max_a{Q[s(t+1), a]})
 
+#### State (s)
+This represents the state in which the agent is in currently. For this particular problem, the state refers to the agent's position within the environment. There are since there are 25 positions within the environment, there are 25 possible states for the agent.
+
+#### Action (a)
+This represents the agent's action regarding making a decision. An action causes the agent to transition from its current state to a different state. Depending on the agent's current state, it may be limited to take certain actions or it may only be able to transition to certain states.
+
+#### Reward (r)
+This represents the reward value that an agent obtains from being in a certain state. For this environment, depending on the state, the reward value may be positive, negative, or zero.
+
 #### Learning Rate (alpha)
 The learning rate *alpha* controls how much of the new information that an agent obtains overrides its past knowledge. If alpha is set to 0, then the agent will discard any new information that it receives when it comes to decision making. However, if alpha is set to 1, then the agent will only consider the new information about the environment when determning which actions to take.
 
