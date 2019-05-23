@@ -6,9 +6,9 @@ The purpose of this project is to show how reinforcement learning algorithms can
 
 
 ### *Reinforcement Learning Implementation*
-The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algorithm used due to its simplistic nature. The algorithm is given by the equation \
+The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algorithm used due to its simplistic nature. The algorithm is given by the equation
 
-![q-learning equation](https://github.com/ronmoore3/eecs738projects-Machine-Learning/tree/master/Treasure_Hunters_Inc/images/bellman_equation.PNG "Q-Learning Equation")
+Q_new[s(t), a(t)] = (1-alpha) * Q_old[s(t), a(t)] + alpha * (r + gamma * max_a{Q[s(t+1), a]})
 
 #### Learning Rate (alpha)
 The learning rate *alpha* controls how much of the new information that an agent obtains overrides its past knowledge. If alpha is set to 0, then the agent will discard any new information that it receives when it comes to decision making. However, if alpha is set to 1, then the agent will only consider the new information about the environment when determning which actions to take.
