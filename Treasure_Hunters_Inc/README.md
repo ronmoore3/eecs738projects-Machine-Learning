@@ -6,9 +6,9 @@ The purpose of this project is to show how reinforcement learning algorithms can
 
 
 ### *Reinforcement Learning Implementation*
-The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algorithm used due to its simplistic nature. The algorithm is given by the equation
+The reinforcement learning algorithm used was the q-learning algorithm. Q-learning is the most popular reinforcement algorithm used due to its simplistic nature. The algorithm is given by the equation \
 
-![q-learning equation](https://github.com/ronmoore3/eecs738projects-Machine-Learning/tree/master/Treasure_Hunters_Inc/images/bellman_equation.PNG)
+![q-learning equation](https://github.com/ronmoore3/eecs738projects-Machine-Learning/tree/master/Treasure_Hunters_Inc/images/bellman_equation.PNG "Q-Learning Equation")
 
 ### *Discussion*
 
