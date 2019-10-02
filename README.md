@@ -1,3 +1,5 @@
+# Machine Learning
+
 This course introduces basic concepts and algorithms in machine learning. \
 Topics covered include:
 * Data Modeling Strategies
